@@ -2,3 +2,5 @@
 Monkey 
 Crocodile
 Cartoon
+Daisy
+Lion
