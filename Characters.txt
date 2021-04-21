@@ -4,3 +4,5 @@ Crocodile
 Cartoon
 Daisy
 Lion
+Hello
+Bye
